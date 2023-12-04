@@ -1,3 +1,6 @@
+# TO USE THIS FILE VIA COMMAND LINE:  $ sudo cp qmec/hosts.deny /etc/hosts.deny
+
+
 # /etc/hosts.deny: list of hosts that are _not_ allowed to access the system.
 #                  See the manual pages hosts_access(5) and hosts_options(5).
 #
@@ -16,7 +19,14 @@
 # ALL: PARANOID
 
 
-:0.0.0.0 0-meta.com
+:0.0.0.0 trading-server-prod.herokuapp.com
+:0.0.0.0 omtrdc.com
+:0.0.0.0 media2.gipyhy.com
+:0.0.0.0 meta.com
+:0.0.0.0 facebookmeta.com
+:0.0.0.0 metafacebook.com
+:0.0.0.0 zuck.com
+:0.0.0.0 threads.meta.com
 :0.0.0.0 0-edge-chat.facebook.com
 :0.0.0.0 0.beta.facebook.com
 :0.0.0.0 0.facebook.com
@@ -1143,6 +1153,8 @@
 :0.0.0.0 m.instagram.com
 :0.0.0.0 m.me
 :0.0.0.0 m.whatsapp.com
+:0.0.0.0 maxymiser.net
+:0.0.0.0 ensighten.com
 :0.0.0.0 mahindra.m.facebook.com
 :0.0.0.0 mail.thefacebook.com
 :0.0.0.0 maps.instagram.com
