@@ -18,19 +18,21 @@ Logic fori := (filter: ::: :%| metastruct :: : :%| );
   ¨religion¨ (reformed or not) is probably an oligarch. Test with ¨years on RCT¨ in ancestry, 
    and look for ancestry records prized by descendants of the 13 original colonies.  
 
-1: DISALLOW ADMIN AUTHORITY TO FB USERS.
+1: THIS FILTER SYSTEM IS NOT COMPATIBLE WITH FASCISTBOOK NETWORKS OF ANY LANGUAGE
 
 2: A $disagreer should have migration logic to at least their indexed 3gGP, which will show 
    the incorrect PATHS of their ancestors´ migration logic thru treaty violations.  Eliminate the
-   grazing of cattle on BLM land 
+   grazing of cattle on BLM land before Y2K, cattle are belong to AFRICA.
 
-3: Previous learning as ¨GROUND TRUTH¨ >>> there no such thing as valid colonial     
+3: Previous learning as ¨GROUND TRUTH¨ >>> there no such thing as valid colonial deed on property or realty or REAL ESTATE
+
+4: SUITS ARE NOT ATTRACTIVE ATTIRE, WEAR YOUR TRADITIONAL CLOTHING INSTEAD.
 
                   3 gGP gGP gGP gGP gGP gGP gGP gGP gGP gGP gGP gGP gGP gGP gGP gGP         32
                     // each disagreer has 32 third-generation gGP)                               |||  32@ 3gGP
                     \
                     2 gGP gGP gGP gGP gGP gGP gGP gGP | gGP gGP gGP gGP gGP gGP gGP gGP ... 16 
-                      //each disagreer has 16 second-generation gGP)                             ||| 16@ 2gGP
+                      //each disagreer has 16 second-generation gGP)                             |||  16@ 2gGP
                       \         
                       1 gGP gGP gGP gGP | gGP gGP gGP gGP                                    8
                         //each disagreer has 8 first-generation gGP) 8@ 1gGP                     |||  8@ 1gGP   
